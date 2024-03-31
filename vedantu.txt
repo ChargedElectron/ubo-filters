@@ -1,0 +1,11 @@
+https://www.vedantu.com
+www.vedantu.com##.successful-referral-card-outer-container
+www.vedantu.com##.footer
+www.vedantu.com##.cs-align.invite-and-get-rewards-container
+www.vedantu.com##.pedagogy-top-books-container
+www.vedantu.com##.marksheet-upload
+www.vedantu.com##.quicklinks-wrapper
+www.vedantu.com##.wallet-container
+www.vedantu.com##.navigation-bar-right > .postlogin.list-items > .header-list-parent > div.header-list > div > .leave-apply-button
+www.vedantu.com##.walletcontainer
+
